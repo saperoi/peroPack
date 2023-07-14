@@ -1,0 +1,153 @@
+(* = partially edited by me)
+
+Saperoi
+-----
+Arch Crown
+Redstone
+Comperator
+Repeater
+Detector Rail
+Activator Rail
+Powered Rail
+Observer
+Redstone torch
+Block of Redstone
+Endermen
+Endermite
+Enderdragon
+Spawn Eggs
+End Crystal
+Chorus
+Purpur blocks
+Campfire smoke
+Shulkers
+Hunger Bar
+Trapped Chest
+Egg
+
+Yet Another Gold Netherite Pack by AlephNull127
+-----
+Arch Firmament, Cover, Plate
+
+
+Other Minecraft versions
+---------------------
+Cocoa Beans
+Brown dye
+Stonecutters
+Fletching Table
+Smithing Table
+Cartography Table
+Barrel
+
+VanillaTweaks Project
+---------------------
+Quieter Sounds
+Sun
+Moon
+Bedrock
+Sunflowers
+Ore Borders
+Bud Amethyst Borders
+Infested Borders
+Wax Borders
+Mining Progress
+Banner Pattern (on item)
+Hopper, Dispenser, Dropper, Observer Direction
+Lever
+Lodestone
+Kelp 25
+Tripwire
+Honey, Caudron, Composter Stages
+Rain, Snow, Particles
+Glass
+Scaffolding
+Enchantment Glint
+Lower Fire, Shield
+Fog
+Overlays
+Item Stitching
+Toasts
+Recipe button
+Stat icons
+Spectator icons
+Redstone wire
+Stem fix
+Buckets
+Cactus bottom
+Helmets
+Bats, Ghast, Elder Guardian, Wither, Tripwire, Sign, Sonic Boom, Beacon Beam, Guardian Beam PIXEL CONSISTANCY
+Soul Soil Soul Campfire
+Blaze Rods
+Iron Bars Z-Fighting
+Corrected Item Holding
+Hoe
+Bedrock Ender Dragon Ball
+Dungeons Terracotta
+Bedrock Dried Kelp
+White Slime
+Golden Mango
+Emerald to Ruby
+Rose
+Hardened Clay
+Grass Path
+Classic Loading Screen
+Stone Background
+Smooth Font
+EXP Bar, Ping Color, Crosshair
+Nuggets
+Leather
+Iron Golem
+Stem -> Log
+Shield Banner
+End Rod
+Dye
+Campfire
+Flint Arrow
+Bed Icon
+Splash Bottle o' Enchanting
+Crimson/Warped Planks
+Leather Armor
+Crown
+Phantom Elytra
+Technoblade Pigs
+Font
+World Border
+
+DefaultEx Texture Pack
+----------------------
+Diamond
+Iron Door
+Saplings
+Birch
+Bone Meal
+Debug Stick
+
+PC Gamer Demo
+-------------
+Cows
+Mooshrooms*
+
+SunflowersandWheat on SkinDex
+-----------------------------
+Gold Armor*
+
+PolishedDiorite on SkinDex
+--------------------------
+Netherite Armor*
+
+RookOiseu
+---------
+Gold Armor*
+
+User 102504441811762740424 on Novaskin
+--------------------------------------
+Chainmail armor 2
+
+DuckCraft mod by ThunderBadge
+-----------------------------
+Chicken (Duck)
+
+Minecraft Wikia
+---------------
+Creeper
